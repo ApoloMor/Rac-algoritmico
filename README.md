@@ -1,2 +1,2 @@
 # Rac-algoritmico
-aqui estão alguns códigos feitos na matéria de raciocínio algorítmico
+aqui estão alguns códigos/exercicios feitos na matéria de raciocínio algorítmico
